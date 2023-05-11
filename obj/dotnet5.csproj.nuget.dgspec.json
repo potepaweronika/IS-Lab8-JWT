@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj": {}
+  },
+  "projects": {
+    "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj",
+        "projectName": "dotnet5",
+        "projectPath": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj",
+        "packagesPath": "/home/weronika/.nuget/packages/",
+        "outputPath": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/weronika/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/weronika/.dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
