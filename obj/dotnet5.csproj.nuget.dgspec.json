@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj": {}
+    "/home/weronika/Documents/system-integration/IS-Lab8-JWT/dotnet5.csproj": {}
   },
   "projects": {
-    "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj": {
+    "/home/weronika/Documents/system-integration/IS-Lab8-JWT/dotnet5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj",
+        "projectUniqueName": "/home/weronika/Documents/system-integration/IS-Lab8-JWT/dotnet5.csproj",
         "projectName": "dotnet5",
-        "projectPath": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/dotnet5.csproj",
+        "projectPath": "/home/weronika/Documents/system-integration/IS-Lab8-JWT/dotnet5.csproj",
         "packagesPath": "/home/weronika/.nuget/packages/",
-        "outputPath": "/home/weronika/Documents/Integracja systemów/IS_Lab8_JWT/obj/",
+        "outputPath": "/home/weronika/Documents/system-integration/IS-Lab8-JWT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/weronika/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net5.0"
         ],
         "sources": {
+          "/home/weronika/.dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/weronika/.dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/weronika/.dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }
